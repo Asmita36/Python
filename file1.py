@@ -1,0 +1,2 @@
+import funfile
+funfile.cals()
